@@ -28,7 +28,7 @@ function doFirst2(){
 }
 
 function startDrag(e) {
-	var code = '<img src="img/e2.jpg">';
+	var code = '<img src="img/e1.jpg">';
 	e.dataTransfer.setData('leftbox2', code);
 }
 
