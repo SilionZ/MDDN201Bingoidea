@@ -8,7 +8,7 @@ function doFirst(){
 }
 
 function startDrag(e) {
-	var code = '<img src="img/logo.png">';
+	var code = '<img src="img/e1.jpg">';
 	e.dataTransfer.setData('leftbox', code);
 }
 
@@ -28,7 +28,7 @@ function doFirst2(){
 }
 
 function startDrag(e) {
-	var code = '<img src="img/logo.png">';
+	var code = '<img src="img/e2.jpg">';
 	e.dataTransfer.setData('leftbox2', code);
 }
 
